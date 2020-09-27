@@ -4,16 +4,7 @@
 
 // Your web app's Firebase configuration
 // REPLACE THIS WITH YOUR CONFIG
-var firebaseConfig = {
-    apiKey: "AIzaSyC-o2qpD_cDmJMwGO-zVM-iYjV-pOGtKks",
-    authDomain: "my-demo-80558.firebaseapp.com",
-    databaseURL: "https://my-demo-80558.firebaseio.com",
-    projectId: "my-demo-80558",
-    storageBucket: "my-demo-80558.appspot.com",
-    messagingSenderId: "967106302588",
-    appId: "1:967106302588:web:c28fda8fe070e3ed012ff9",
-    measurementId: "G-7RS3C9J1DH"
-  };
+
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
