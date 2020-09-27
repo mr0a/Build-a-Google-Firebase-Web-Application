@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967106302588",
+    "firebase_url": "https://my-demo-80558.firebaseio.com",
+    "project_id": "my-demo-80558",
+    "storage_bucket": "my-demo-80558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967106302588:android:22ff6f01936cfd2e012ff9",
+        "android_client_info": {
+          "package_name": "com.worldpeace.issuesmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967106302588-vlif4s15unagj4knihajcut3s4fmtct2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANcp2I3DjCfp5pPB1A7l8aCND-5he_PQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967106302588-vlif4s15unagj4knihajcut3s4fmtct2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
