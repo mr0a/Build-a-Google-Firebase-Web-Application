@@ -25,14 +25,14 @@
   - > test_pad.js
   ```javascript
   var firebaseConfig = {
-    apiKey: "AIzaSyC-o2qpD_cDmJMwGO-zVM-iYjV-pOGtKks",
-    authDomain: "my-demo-80558.firebaseapp.com",
-    databaseURL: "https://my-demo-80558.firebaseio.com",
-    projectId: "my-demo-80558",
-    storageBucket: "my-demo-80558.appspot.com",
-    messagingSenderId: "967106302588",
-    appId: "1:967106302588:web:c28fda8fe070e3ed012ff9",
-    measurementId: "G-7RS3C9J1DH"
+    apiKey: "AIzaSyC-o2qpD_cDmJMgdsdgf_sdf",
+    authDomain: "myexapp.firebaseapp.com",
+    databaseURL: "https://myexapp.firebaseio.com",
+    projectId: "myexapp80558",
+    storageBucket: "mydsfd0558.appspot.com",
+    messagingSenderId: "99876543210",
+    appId: "1:9678772588:web:asdfsfe070e3ed012ff9",
+    measurementId: "G-7AS3C9J1DH"
   };
 
 // Initialize Firebase
